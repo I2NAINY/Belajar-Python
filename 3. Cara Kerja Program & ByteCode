@@ -1,4 +1,23 @@
 * 3. Cara Kerja Program & ByteCode *
 
+        Python --> Bahasa Pemrograman
+                        |
+                Interpreted
+
+____________
+|Source Code| --> Interpreted --> Terminal / dijalankan
+|Main.py    |      |Python|        
+-------------
+
+                Compiled
+                _____
+Source Code --> |C++| --> Executable
+                -----
+
+*> Program Python itu akan dieksekusi berdasarkan urutannya.
+
+
 Membuat program pertama kali :
         print("Hello World!")
+
+>>> ada di file : Main.py
