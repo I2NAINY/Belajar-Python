@@ -1,0 +1,12 @@
+* 4. Mengenal Variabel *
+
+Interactive Shell
+Kita bisa menaruh data ke dalam sebuah variabel, sama seperti pada Matematika.
+Variabel = yang di Matematika
+  x = 2
+  y = x + 4
+    = 2 + 4
+    = 6
+Di Python tidak perlu memusingkan Tipe Data, bisa langsung diinterpertasikan.
+
+>> ada di file : 4-Variabel.py
