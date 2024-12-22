@@ -1,0 +1,45 @@
+* 1. Apa Itu Python? *
+
+A. Kenapa Belajar Python?
+  - Mudah Dimengerti
+  - Gratis
+  - Dynamic
+  - Multi Platform :  - Web Development
+                      - Mobile Apps
+                      - Desktop Apps
+  - Lagi Hype :  - Data Science
+                  - Robotics
+                  - Machine Learning
+                  - Data Analysis
+                  - Artificial Intelligent
+
+B. Kok bisa Python populer?
+            - Bahasanya Simple bila dibandingkan dengan C++ & Java
+
+C. Siapa penemu/pembuat bahasa Python?
+    Pencipta : Guido Van Rossum (Programmer) pada tahun 1989
+    Pada awalnya bertemu Andrew S. Tenenbaum yang meminta untuk dibuatkan bahasa yang cocok untuk Amoeba (Distributed Operating System Amoeba)
+
+D. Sejarah Perkembangan Python
+  1989 -->  Pyhton 1.0 (Jan 1994) Release Pertama
+                    1.5 CRNI (Dec 1997) Keyword argument, Complex Number
+                    1.6 BeOpen.com  (Sept 2000) GPL-compatible License Python distribution utilities (disutils)
+                    2.0 Python Enhancement Proposal (PEP) (Oct 2000) List Comprehensions, Garbage Collection, Python Software Foundation License
+                    2.2 (Dec 2001) Types (in C), Class
+                    2.5 (Sept 2006) With Statement
+                    2.7 (Jul 2010) Final Python 2.x
+            Python 3.0 (Dec 2008) ReDesign Multi-Paradigm
+                    3.1 (Jun 2009) Ordered Dict, Formal String
+                    3.2 (Feb 2011) Stable ABI Argparse
+                    3.3 (Sept 2012) virtualenv, Implicit namespace, Flexible string, Python launcher for Windows, OS & IO Exception
+                    3.4 (Mar 2014) PIP included, New Modules
+                    3.5 (Sept 2015) coroutines, Matrix operator
+                    3.6 (Dec 2016) Format string literal, underscore in numeric literal, variable annotations, asynchronous generator and comprehensions
+                    3.7 (Jun 2018) Postponed evaluation of type annotations
+                    3.8 (Oct 2019) New syntax :=, Positional-only parameters, f-string, Improved moduls
+                    3.9 (Oct 2020) Deprecation Warning for 2.7, Dictionary merge & update operators
+
+E. Apa yang dibutuhkan untuk mulai belajar Python?
+    1. Python + IDE (Integrated Development Environment, contoh : PyChar.?.)
+    2. Python + Interactive Python Shell (I-Python, Spider, Jupiter NoteBook)
+    3. Python + Text Editor (Visual Studio Code)
