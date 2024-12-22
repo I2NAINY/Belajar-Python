@@ -1,0 +1,4 @@
+* 3. Cara Kerja Program & ByteCode *
+
+Membuat program pertama kali :
+        print("Hello World!")
