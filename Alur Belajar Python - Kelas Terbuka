@@ -1,0 +1,72 @@
+* ALUR BELAJAR PYTHON * --- by : Kelas Terbuka ---
+
+1. Apa itu Python?
+2. Instalasi Python & VS Code (Visual Studio Code)
+3. Cara Kerja Program & ByteCode
+4. Mengenal Variabel
+5. Tipe Data
+6. Casting Tipe Data
+7. Mengambil Input Data dari User
+8. Operasi Aritmatika
+9. Latihan Perhitungan Sederhana
+10. Operasi Komparasi
+11. Operasi Logika atau Boolean
+12. Latihan Komparasi dan Logika
+13. Operator Bitwise
+14. Operator Assignment
+15. Pengenalan String
+16. Operasi dan Manipulasi String
+17. Format String
+18. String Width and Alignment
+19. Latihan Date and Time
+20. IF dan ELSE Statement
+21. ELIF Statement
+22. Latihan Percabangan
+23. For Loop (Perulangan)
+24. While Loop (Perulangan)
+25. Continue dan Pass
+26. Break
+27. Latihan Perulangan
+28. List
+29. Manipulasi List
+30. Operasi List
+31. Copy List
+32. Nested List / List Bersarang
+33. Deep Copy Nested List
+34. Looping List dan Enumerate
+35. Latihan List
+36. Tuples dan Set
+37. Dictionary
+38. Operasi Dictionary
+39. Looping Dictionary
+40. Copy & Pop Dictionary
+41. MultiKeys & Nesting Dictionary
+42. Latihan Dictionary
+43. Pengenalan Fungsi
+44. Fungsi dengan Argument
+45. Fungsi dengan Return
+46. Default Argumen Fungsi
+47. Latihan Fungsi
+48. Type Hints pada Fungsi
+49. *args pada Fungsi
+50. *kwargs pada Fungsi
+51. Anonymous dan Lambda Function
+52. Global & Local Scope
+53. Import Statement
+54. Membuat Module
+55. Membuat Package Sederhana
+56. __Init__.py pada Package
+57. Menggunakan Standard Library
+58. tkinter | Standard Library Python GUI
+59. Mengenal PIP
+60. Package Numpy | Contoh PIP
+61. Explore Pygame
+62. __main__sebagai Gerbang Program
+63. Read External File - Open & Width
+64. Write External File
+65. Exception, Error, Try and Except
+66. PROJECT - Persiapan
+67. PROJECT - Init Database & Read
+68. PROJECT - Create
+69. PROJECT - Update
+70. PROJECT - Delete
